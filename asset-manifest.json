@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0a506531.chunk.css",
+    "main.js": "/portfolio/static/js/main.ce61b649.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ce61b649.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.cbcd2f92.chunk.js": "/portfolio/static/js/2.cbcd2f92.chunk.js",
+    "static/js/2.cbcd2f92.chunk.js.map": "/portfolio/static/js/2.cbcd2f92.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.75487b8b84339773c471bfaa665813ac.js": "/portfolio/precache-manifest.75487b8b84339773c471bfaa665813ac.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.0a506531.chunk.css.map": "/portfolio/static/css/main.0a506531.chunk.css.map",
+    "static/js/2.cbcd2f92.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cbcd2f92.chunk.js.LICENSE.txt",
+    "static/media/AMAZON.png": "/portfolio/static/media/AMAZON.eea74231.png",
+    "static/media/IG.png": "/portfolio/static/media/IG.9853d510.png",
+    "static/media/MOB.png": "/portfolio/static/media/MOB.f6c6cffc.png",
+    "static/media/PROF.jpg": "/portfolio/static/media/PROF.77bbffad.jpg",
+    "static/media/RESUMELATEST.pdf": "/portfolio/static/media/RESUMELATEST.2c14393e.pdf",
+    "static/media/SPOTIFY.png": "/portfolio/static/media/SPOTIFY.1d2b6300.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.cbcd2f92.chunk.js",
+    "static/css/main.0a506531.chunk.css",
+    "static/js/main.ce61b649.chunk.js"
+  ]
+}
